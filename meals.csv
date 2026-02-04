@@ -1,0 +1,306 @@
+food,calories,protein,carbs,category,type,recipe_details
+Oats Porridge,150,5,27,breakfast,vegetarian,"Ingredients:
+1. ½ cup oats
+2. 1 cup milk or water
+3. 1 tbsp chopped nuts
+4. ½ banana (sliced)
+
+Steps:
+1. Heat milk or water in a pan.
+2. Add oats and cook for 5–7 minutes until soft.
+3. Stir occasionally to avoid lumps.
+4. Transfer to a bowl, top with sliced banana and nuts, and serve warm."
+
+Idli,70,2,12,breakfast,vegetarian,"Ingredients:
+1. 2 idlis
+2. Coconut chutney
+3. Sambar (optional)
+
+Steps:
+1. Steam fermented rice-lentil batter in molds for 10 minutes.
+2. Serve hot with chutney and sambar."
+
+Dosa,120,3,20,breakfast,vegetarian,"Ingredients:
+1. 1 dosa (½ cup batter)
+2. 1 tsp oil
+
+Steps:
+1. Spread batter on hot pan.
+2. Drizzle oil around edges.
+3. Cook until crisp and golden.
+4. Serve with chutney."
+
+Upma,180,5,30,breakfast,vegetarian,"Ingredients:
+1. ½ cup semolina
+2. 1 onion (chopped)
+3. 1 chili
+4. 1 cup water
+
+Steps:
+1. Roast semolina until light brown.
+2. Sauté onion and chili in oil.
+3. Add water and bring to boil.
+4. Stir in semolina, cook until thick."
+
+Poha,180,5,32,breakfast,vegetarian,"Ingredients:
+1. 1 cup flattened rice
+2. 1 onion
+3. 1 chili
+4. Curry leaves
+
+Steps:
+1. Wash poha and drain.
+2. Sauté onion, chili, curry leaves.
+3. Add poha, stir gently.
+4. Cook for 5 minutes and serve."
+
+Paneer Curry,265,18,6,lunch,vegetarian,"Ingredients:
+1. 100g paneer cubes
+2. 1 onion
+3. 1 tomato
+4. 1 tsp garam masala
+
+Steps:
+1. Heat oil, sauté onion until golden.
+2. Add tomato and cook until soft.
+3. Mix in garam masala.
+4. Add paneer cubes, cook 10 minutes.
+5. Serve hot with rice or chapati."
+
+Dal Tadka,200,12,28,lunch,vegetarian,"Ingredients:
+1. ½ cup lentils
+2. 2 garlic cloves
+3. 1 tsp cumin
+
+Steps:
+1. Boil lentils until soft.
+2. Heat oil, add garlic and cumin.
+3. Pour tempering over dal.
+4. Serve with rice."
+
+Vegetable Biryani,300,8,45,lunch,vegetarian,"Ingredients:
+1. 1 cup basmati rice
+2. ½ cup mixed vegetables
+3. 1 tbsp biryani masala
+4. 1 tbsp ghee
+
+Steps:
+1. Cook rice until 70% done.
+2. Fry vegetables with spices in ghee.
+3. Layer rice and vegetables.
+4. Cover and steam for 15 minutes."
+
+Chapati with Sabzi,250,7,40,lunch,vegetarian,"Ingredients:
+1. 2 chapatis
+2. 1 cup vegetable curry
+
+Steps:
+1. Roll wheat dough into discs.
+2. Cook on hot pan until golden.
+3. Serve with curry."
+
+Curd Rice,220,6,35,lunch,vegetarian,"Ingredients:
+1. 1 cup rice
+2. ½ cup curd
+3. Curry leaves
+
+Steps:
+1. Mix cooked rice with curd.
+2. Temper with curry leaves.
+3. Serve chilled."
+
+Vegetable Curry,200,6,20,dinner,vegetarian,"Ingredients:
+1. 1 cup mixed vegetables
+2. 1 onion
+3. 1 tomato
+4. 1 tsp curry powder
+
+Steps:
+1. Fry onion and tomato.
+2. Add vegetables and curry powder.
+3. Cook for 15 minutes.
+4. Serve hot."
+
+Tofu Stir Fry,220,15,12,dinner,vegetarian,"Ingredients:
+1. 100g tofu
+2. 1 cup vegetables
+3. 1 tbsp soy sauce
+
+Steps:
+1. Heat oil in pan.
+2. Add tofu and vegetables.
+3. Stir fry with soy sauce.
+4. Serve hot."
+
+Vegetable Soup,100,4,15,dinner,vegetarian,"Ingredients:
+1. 1 cup mixed vegetables
+2. 2 cups water
+3. Spices
+
+Steps:
+1. Boil vegetables in water.
+2. Add spices.
+3. Cook until soft.
+4. Serve warm."
+
+Fruit Bowl,120,2,28,snack,vegetarian,"Ingredients:
+1. 1 apple
+2. ½ banana
+3. ½ cup grapes
+4. 1 tsp honey
+
+Steps:
+1. Chop fruits.
+2. Mix in bowl.
+3. Drizzle honey.
+4. Serve chilled."
+
+Smoothie,160,5,30,snack,vegetarian,"Ingredients:
+1. 1 banana
+2. 1 cup milk
+3. 1 tbsp oats
+
+Steps:
+1. Blend banana, milk, oats.
+2. Pour into glass.
+3. Serve chilled."
+
+Egg Omelette,150,12,2,breakfast,non-vegetarian,"Ingredients:
+1. 2 eggs
+2. 1 onion
+3. 1 tomato
+4. 1 chili
+5. 1 tsp oil
+
+Steps:
+1. Beat eggs.
+2. Add chopped onion, tomato, chili.
+3. Heat oil, pour mixture.
+4. Cook 5 minutes, flip and serve."
+
+Chicken Breast,200,30,0,lunch,non-vegetarian,"Ingredients:
+1. 150g chicken breast
+2. 1 tbsp olive oil
+3. 1 tsp pepper
+4. ½ lemon
+
+Steps:
+1. Marinate chicken with oil, pepper, lemon.
+2. Grill for 10–12 minutes.
+3. Serve hot."
+
+Chicken Curry,280,25,8,lunch,non-vegetarian,"Ingredients:
+1. 200g chicken
+2. 1 onion
+3. 1 tomato
+4. 1 tbsp curry masala
+
+Steps:
+1. Heat oil, sauté onion.
+2. Add tomato and cook.
+3. Add chicken and curry masala.
+4. Cook 20 minutes.
+5. Serve hot."
+
+Chicken Biryani,350,28,45,lunch,non-vegetarian,"Ingredients:
+1. 1 cup rice
+2. 200g chicken
+3. Biryani spices
+
+Steps:
+1. Cook rice until half done.
+2. Fry chicken with spices.
+3. Layer rice and chicken.
+4. Steam for 20 minutes."
+
+Grilled Fish,220,25,0,dinner,non-vegetarian,"Ingredients:
+1. 150g fish fillet
+2. 1 tsp turmeric
+3. 1 tsp chili powder
+4. 1 tbsp oil
+
+Steps:
+1. Marinate fish with spices.
+2. Grill 8–10 minutes.
+3. Serve with lemon wedges."
+
+Fish Curry,260,22,10,dinner,non-vegetarian,"Ingredients:
+1. 200g fish
+2. 1 onion
+3. 1 tomato
+4. Curry spices
+
+Steps:
+1. Fry onion and tomato.
+2. Add fish and spices.
+3. Cook 15 minutes.
+4. Serve hot."
+
+Shrimp Curry,250,28,5,dinner,non-vegetarian,"Ingredients:
+1. 200g shrimp
+2. 1 onion
+3. 1 tomato
+4. Curry spices
+
+Steps:
+1. Fry onion and tomato.
+2. Add shrimp and spices.
+3. Cook 10 minutes.
+4. Serve hot."
+
+Mutton Curry,300,25,8,dinner,non-vegetarian,"Ingredients:
+1. 200g mutton
+2. 1 onion
+3. 1 tomato
+4. Garam masala
+
+Steps:
+1. Fry onion and tomato.
+2. Add mutton and spices.
+3. Slow cook 30 minutes.
+4. Serve hot."
+
+Tuna Sandwich,280,22,30,snack,non-vegetarian,"Ingredients:
+1. 2 bread slices
+2. 50g tuna
+3. 1 tbsp mayo
+4. Lettuce
+
+Steps:
+1. Mix tuna with mayo.
+2. Spread on bread.
+3. Add lettuce.
+4. Serve fresh."
+
+Grilled Turkey,240,27,0,dinner,non-vegetarian,"Ingredients:
+1. 150g turkey slices
+2. Spices
+3. Oil
+
+Steps:
+1. Marinate turkey.
+2. Grill until cooked.
+3. Serve hot."
+
+Boiled Eggs,140,12,1,snack,non-vegetarian,"Ingredients:
+1. 2 eggs
+
+Steps:
+1. Boil eggs for 8 minutes.
+2. Peel and serve."
+
+Prawn Stir Fry,230,24,6,dinner,non-vegetarian,"Ingredients:
+1. 200g prawns (cleaned and deveined)
+2. 2 garlic cloves (minced)
+3. 1 chili (sliced)
+4. 1 tbsp soy sauce
+5. 1 tbsp oil
+6. Salt to taste
+
+Steps:
+1. Heat oil in a pan on medium flame.
+2. Add minced garlic and sliced chili, sauté until fragrant.
+3. Add prawns and stir fry for 3–4 minutes until they turn pink.
+4. Pour in soy sauce and mix well.
+5. Cook for another 2 minutes until prawns are fully cooked.
+6. Serve hot with steamed rice or noodles."

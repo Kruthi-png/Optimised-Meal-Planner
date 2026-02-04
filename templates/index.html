@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Optimized Meal Planner</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; background: #fdfdfd; }
+        h1 { color: #2c3e50; }
+        form { margin-bottom: 20px; padding: 15px; border: 1px solid #ccc; border-radius: 5px; background: #f9f9f9; }
+        label { display: inline-block; width: 120px; font-weight: bold; }
+        input, select, button { margin-top: 5px; padding: 5px; }
+        button { background: #27ae60; color: white; border: none; border-radius: 3px; cursor: pointer; }
+        button:hover { background: #219150; }
+        .meal { margin-bottom: 20px; padding: 15px; border: 1px solid #ccc; border-radius: 5px; background: #fff; }
+        .meal b { color: #27ae60; }
+        pre { background: #f4f4f4; padding: 10px; border-radius: 5px; font-family: inherit; white-space: pre-wrap; }
+    </style>
+</head>
+<body>
+    <h1>🍽 Optimized Meal Planner</h1>
+    <form method="POST">
+        <label>Calories Limit:</label>
+        <input type="number" name="calories" required><br><br>
+        
+        <label>Diet Type:</label>
+        <select name="diet_type" required>
+            <option value="vegetarian">Vegetarian</option>
+            <option value="non-vegetarian">Non-Vegetarian</option>
+        </select><br><br>
+        
+        <button type="submit">Generate Full-Day Plan</button>
+    </form>
+    
+    {% if plan %}
+        <h2>Full-Day Meal Plan ({{ diet_type }})</h2>
+        <p><b>Total Calories:</b> {{ total_calories }} / <b>Limit:</b> {{ calories }}</p>
+        
+        {% for cat, meal in plan.items() %}
+        <div class="meal">
+            <b>{{ cat.title() }}:</b> {{ meal['food'] }}  
+            <br><b>Calories:</b> {{ meal['calories'] }} | <b>Protein:</b> {{ meal['protein'] }}g | <b>Carbs:</b> {{ meal['carbs'] }}g
+            <br><i>Recipe:</i><br>
+            <pre>{{ meal['recipe_details'] }}</pre>
+        </div>
+        {% endfor %}
+    {% endif %}
+</body>
+</html>
