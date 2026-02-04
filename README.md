@@ -32,7 +32,7 @@ The **Optimized Meal Planner** is a smart application designed to simplify meal 
 ## Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/optimized-meal-planner.git
+git clone https://github.com/Kruthi-png/Optimised-Meal-Planner
 
 # Navigate to project directory
 cd optimized-meal-planner
